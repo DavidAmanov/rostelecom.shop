@@ -1,4 +1,4 @@
-import { $lang } from "@/conetxt/lang";
+import { $lang } from "@/context/lang";
 import translationsJson from '@/public/translations/translations.json'
 import { useUnit } from "effector-react";
 
